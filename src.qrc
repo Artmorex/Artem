@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/LoadingWindow">
+        <file>Background.jpg</file>
+        <file>Snake.png</file>
+        <file>SNAKE_LOGO.png</file>
+        <file>progressbar.gif</file>
+        <file>SNAKE_TITLE.png</file>
+    </qresource>
+</RCC>
